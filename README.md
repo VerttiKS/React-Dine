@@ -3,8 +3,6 @@
 
 ### Advanced Web Programming
 
-![Alt text](image.png)
-
 ## Project
 
 ReactDine – Your Digital Gateway to React Diner’s Kitchen
